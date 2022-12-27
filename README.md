@@ -17,8 +17,8 @@
 <br>
 
 <h4><a href="https://github.com/Moon-GD/read-docs-everyday/tree/main/TypeScript">TypeScript</a></h4>
-<h5>2022.12.23 ~ </h5>
+<h5>2022.12.23 ~ 2022.12.27</h5>
 <br>
 
 <hr>
-Update : 2022.12.23
+Update : 2022.12.27
