@@ -1,7 +1,7 @@
 # 📖 Read Docs everyday on <a href="https://www.w3schools.com/">W3 School</a> 📖
 
 <img width="925" alt="1" src="https://user-images.githubusercontent.com/74173976/209764269-ae3c0505-3993-41e9-a8ee-9adcf09be1d9.png">
-<img width="914" alt="2" src="https://user-images.githubusercontent.com/74173976/209764271-114f84d9-47e4-47bb-ad33-b30c0dc557bd.png">
+<img width="914" alt="2" src="https://user-images.githubusercontent.com/74173976/209908230-d8bb138b-7056-4a67-8752-347f357dcf8c.png">
 <img width="904" alt="3" src="https://user-images.githubusercontent.com/74173976/209764276-997d85d8-0685-491e-84c3-56b0fd525ee4.png">
 
 
