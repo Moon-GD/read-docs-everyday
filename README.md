@@ -25,5 +25,9 @@
 <h5>2022.12.23 ~ 2022.12.27</h5>
 <br>
 
+<h4><a href="https://www.w3schools.com/jquery/default.asp">jQuery</a></h4>
+<h5>2022.12.30 ~ </h5>
+<br>
+
 <hr>
-Update : 2022.12.27
+Update : 2022.12.30
